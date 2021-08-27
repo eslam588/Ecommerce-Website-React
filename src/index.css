@@ -1,0 +1,125 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+
+.navbar{
+  padding: 12px 100px;
+  background-color: rgb(25, 151, 130);
+}
+
+.items-link{
+      margin-left: 200px;
+}
+
+.items-link ul li{
+  margin-left: 50px;
+  font-size: 20px;
+  font-weight: bold;
+} 
+.allproducts .main-product
+{
+  font-weight: bold;
+  text-align: center;
+}
+
+.allproducts .card{
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.allproducts .card .card-text span{
+      font-size: 20px;
+}
+
+.allproducts .card  .btn-detail {
+  background-color: orangered;
+  color: #fff;
+  
+}
+
+.allproducts .card  .btn-detail:hover{
+  background-color: #fff;
+  border: 1px solid orangered;
+  color: black;
+}
+
+.footer{
+  background-color: rgb(25, 151, 130);
+  padding:14px 0;
+  position: relative;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.footer .footer-section{
+  text-align: center;
+  font-weight: bold;
+}
+.cart
+{
+ min-height: 441px;
+}
+
+.cart button{
+  width: 50%;
+  transform: translateX(50%);
+  margin-top: 15px;
+  background-color: orange;
+  color: black;
+
+}
+.cart h2{
+  text-align: center;
+}
+
+.cart button:hover{
+  color: #000;
+  background-color: #fff;
+  border: 1px solid orange;
+
+}
+.cart .carth{
+  text-align: center;
+  font-weight: bold;
+
+
+}
+
+.cart .boxcontain{
+  text-align: center;
+
+}
+
+.prodcart button{
+  background-color: orangered;
+}
+
+
+.prodcart button:hover{
+  background-color: rgb(25, 151, 130);
+}
+
+.prodcart .proname{
+  margin-top: 10px;
+}
+
+.prodcart span{
+  font-weight: bold;
+}
+
+.homec
+{
+  min-height: 455px;
+}
+

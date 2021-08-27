@@ -1,0 +1,51 @@
+[
+    {
+      "id" : 1  ,
+      "name" : "Xiaomi Redmi 9A Dual Sim" ,
+      "price" : 1500 ,
+      "image" : "../images/axiomi1.png" ,
+      "description" : "128GB 6GB RAM 4G LTE - Phantom Black" ,
+      "addtional" : " Rear Camera 108 MP wide-angle camera  8MP ult Front Camera Processor Qualcomm Snapdragon 732G octa-core  Battery Capacity 5020mAh with 33W fast charging Connectivity Bluetooth, Wi-Fi, GPS, USB type-C, Arc side-mounted fingerprint sensor  Rear Camera - 108MP wide-angle camera (1/1.52” sensor size, 2.1μm 9-in-1 Super Pixel)  - 8MP ultra-wide camera (118° FOV, f/2.2) - 5MP telemacro camera (f/2.4, AF) - 2MP depth sensor (f/2.4) Display 6.6-inch splashproof AMOLED DotDisplay with 120Hz refresh rate"
+    },
+    {
+      "id" : 2 ,
+      "name" : "Xiaomi Poco X3 Dual Sim" ,
+      "price" : 4200  ,
+      "image" : "../images/axiomi2.jpg" ,
+      "description" : "128GB 6GB RAM 4G LTE - Phantom Black",
+      "addtional" : " Rear Camera 108 MP wide-angle camera  8MP ult Front Camera Processor Qualcomm Snapdragon 732G octa-core  Battery Capacity 5020mAh with 33W fast charging Connectivity Bluetooth, Wi-Fi, GPS, USB type-C, Arc side-mounted fingerprint sensor  Rear Camera - 108MP wide-angle camera (1/1.52” sensor size, 2.1μm 9-in-1 Super Pixel)  - 8MP ultra-wide camera (118° FOV, f/2.2) - 5MP telemacro camera (f/2.4, AF) - 2MP depth sensor (f/2.4) Display 6.6-inch splashproof AMOLED DotDisplay with 120Hz refresh rate"
+    },
+    {
+      "id" : 3   ,
+      "name" :" Xiaomi Redmi Note 10 Pro Sim" ,
+      "price" : 4250  ,
+      "image" : "../images/axiomi3.jpg"  ,
+      "description" : "128GB 6GB RAM 4G LTE - Phantom Black",
+      "addtional" : " Rear Camera 108 MP wide-angle camera  8MP ult Front Camera Processor Qualcomm Snapdragon 732G octa-core  Battery Capacity 5020mAh with 33W fast charging Connectivity Bluetooth, Wi-Fi, GPS, USB type-C, Arc side-mounted fingerprint sensor  Rear Camera - 108MP wide-angle camera (1/1.52” sensor size, 2.1μm 9-in-1 Super Pixel)  - 8MP ultra-wide camera (118° FOV, f/2.2) - 5MP telemacro camera (f/2.4, AF) - 2MP depth sensor (f/2.4) Display 6.6-inch splashproof AMOLED DotDisplay with 120Hz refresh rate"
+    },
+    {
+      "id" : 4  ,
+      "name" : "Xiaomi Redmi Note 10s Dual Sim" ,
+      "price" : 4150 ,
+      "image" : "../images/axiomi4.jpg" ,
+      "description" : "128GB 6GB RAM 4G LTE - Phantom Black",
+      "addtional" : " Rear Camera 108 MP wide-angle camera  8MP ult Front Camera Processor Qualcomm Snapdragon 732G octa-core  Battery Capacity 5020mAh with 33W fast charging Connectivity Bluetooth, Wi-Fi, GPS, USB type-C, Arc side-mounted fingerprint sensor  Rear Camera - 108MP wide-angle camera (1/1.52” sensor size, 2.1μm 9-in-1 Super Pixel)  - 8MP ultra-wide camera (118° FOV, f/2.2) - 5MP telemacro camera (f/2.4, AF) - 2MP depth sensor (f/2.4) Display 6.6-inch splashproof AMOLED DotDisplay with 120Hz refresh rate"
+    },
+    {
+      "id" : 5 ,
+      "name" : "Xiaomi Redmi 9T Dual Sim" ,
+      "price" : 2700 ,
+      "image" : "../images/axiomi5.png" ,
+      "description" : "128GB 6GB RAM 4G LTE - Phantom Black",
+      "addtional" : " Rear Camera 108 MP wide-angle camera  8MP ult Front Camera Processor Qualcomm Snapdragon 732G octa-core  Battery Capacity 5020mAh with 33W fast charging Connectivity Bluetooth, Wi-Fi, GPS, USB type-C, Arc side-mounted fingerprint sensor  Rear Camera - 108MP wide-angle camera (1/1.52” sensor size, 2.1μm 9-in-1 Super Pixel)  - 8MP ultra-wide camera (118° FOV, f/2.2) - 5MP telemacro camera (f/2.4, AF) - 2MP depth sensor (f/2.4) Display 6.6-inch splashproof AMOLED DotDisplay with 120Hz refresh rate"
+
+    },
+    {
+      "id" : 6 ,
+      "name" : "Xiaomi Redmi Note 9 Pro Dual Sim" ,
+      "price" :  3650 ,
+      "image" : "../images/axiomi6.png" ,
+      "description" : "128GB 6GB RAM 4G LTE - Phantom Black",
+      "addtional" : " Rear Camera 108 MP wide-angle camera  8MP ult Front Camera Processor Qualcomm Snapdragon 732G octa-core  Battery Capacity 5020mAh with 33W fast charging Connectivity Bluetooth, Wi-Fi, GPS, USB type-C, Arc side-mounted fingerprint sensor  Rear Camera - 108MP wide-angle camera (1/1.52” sensor size, 2.1μm 9-in-1 Super Pixel)  - 8MP ultra-wide camera (118° FOV, f/2.2) - 5MP telemacro camera (f/2.4, AF) - 2MP depth sensor (f/2.4) Display 6.6-inch splashproof AMOLED DotDisplay with 120Hz refresh rate"
+    }
+]
